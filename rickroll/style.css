@@ -1,0 +1,18 @@
+#title {
+    color: blue;
+    font-size: 60px;
+    font: Impact;
+    background-color: pink;
+    text-align: center;
+}
+
+#lyrics {
+    font: Verdana;
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+
+#video_div {
+    text-align: center;
+}
