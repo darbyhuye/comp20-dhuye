@@ -1,3 +1,6 @@
+Darby Huye
+Comp20 Assignment 2: The Ride Sharing Service 
+
 Correctly implemented:
     I correctly implemented all parts of this assignment:
     a) If I am a driver, all passengers (that made requests in the last 5 min)
