@@ -1,0 +1,31 @@
+h3 {
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+}
+
+input {
+    background: lightblue;
+}
+
+#msg {
+    color: purple;
+}
+h1 {
+    font-size: 30;
+    color: purple;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    color: purple;
+    font-size: 20;
+}
+p {
+    color: white;
+    text-align: center;
+}

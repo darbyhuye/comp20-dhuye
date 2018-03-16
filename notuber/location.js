@@ -9,6 +9,7 @@
  *      is to you. If you click on a driver/passenger, it will tell you their 
  *      distance to you.   
  */
+ 
 var map;
 var myUsername = "Ein4EIwThk";
 var myLocation;
