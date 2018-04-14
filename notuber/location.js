@@ -27,7 +27,8 @@ var meIcon = "me_icon.png";
 var am_I_driver;
 
 var request = new XMLHttpRequest();
-var url = "https://jordan-marsh.herokuapp.com/rides";
+var url = "https://warm-stream-49490.herokuapp.com/rides";
+//var url = "https://pure-basin-27130.herokuapp.com/rides";
 
 function buildMap() {
     mypos = {lat: myLat, lng: myLng};
@@ -71,7 +72,8 @@ function makeRequests(me)
             setInfoWindow(me_marker, mycontent);
         }
     }
-    params = "username=" + myUsername + "&lat=" + myLat + "&lng=" + myLng;
+    //params = "username=" + myUsername + "&lat=" + myLat + "&lng=" + myLng;
+    params = "username=JANET" + "&lat=" + myLat + "&lng=" + myLng;
     request.send(params)
 
 }
