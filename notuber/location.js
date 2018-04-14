@@ -58,8 +58,6 @@ function makeRequests(me)
     request.open("POST", url, true);
     request.setRequestHeader("Content-type", 
                                         "application/x-www-form-urlencoded");
-    console.log(request.readyState); 
-    console.log(request.status); 
 
     request.onreadystatechange = function() {
         if(request.readyState == 4 && request.status == 200) {
