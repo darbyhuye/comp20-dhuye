@@ -27,7 +27,8 @@ var meIcon = "me_icon.png";
 var am_I_driver;
 
 var request = new XMLHttpRequest();
-var url = "https://warm-stream-49490.herokuapp.com/rides";
+//var url = "https://jordan-marsh.herokuapp.com/rides";
+var url = "https://warm-stream-49490.herokuapp.com/rides"; /* MINE */
 //var url = "https://pure-basin-27130.herokuapp.com/rides";
 
 function buildMap() {
